@@ -21,5 +21,11 @@
                   |
                   +-------- DMZ
 + What I Learned
+  - How to Set up pfsense as your Firewall Router
+  - How to set up dynamic DNS in Pfsense
+  - How to Set up Vlan on Pfsense
+  - Firewall Rule of Pfsense
 + Problems I Faced
+  - Pfsense keep crashing and error php services
 + Solutions
+  - I fixing it by Restore Backup pfsense through console interface
