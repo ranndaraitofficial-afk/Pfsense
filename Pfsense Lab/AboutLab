@@ -15,9 +15,9 @@
                 [ pfSense ]
           WAN ----| | |---- LAN
                   | | 
-                  | +------ VLAN10 STAFF
+                  | +------ VLAN40 STAFF
                   |
-                  +-------- VLAN20 SERVERS
+                  +-------- VLAN50 SERVERS
                   |
                   +-------- DMZ
 + What I Learned
