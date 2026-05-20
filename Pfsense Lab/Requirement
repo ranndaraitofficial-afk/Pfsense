@@ -1,1 +1,19 @@
-
++ Things Need to Prepared For This Lab
+  - VMware workstation or Oracle Virtualbox
+  - pfsense ISO file
+  - Ubuntu Server
+  - Windows Client
++ pfsense on vm requirement
+  - Ram 2gb
+  - storage 60gb
+  - core 2
+  - At least 4-5 Networks Adapter
++ Ubuntu Server on vm requirement
+  - Ram 2gb
+  - storage 128gb
+  - core 2
++ Window Client on vm requirement
+  - Ram 2gb
+  - Storage 128gb
+  - core 2
+( Note : this is for window 8.1 as for other version of windows u can use what vm recommand for you or configure your own self!)
