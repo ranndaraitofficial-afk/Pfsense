@@ -1,1 +1,25 @@
-Hello
++ Project Golad
+  - Building A Secure HomeLab Using Pfsense
++ Features
+  - Dynamic DNS
+  - Auto Backup Config
+  - Vlan Segmentation
+  - Captive Portal 
+  - Squid Proxy
+  - Firewall Rule
+  - VPN
+  - Ads Blocker
++ Topology
+                   INTERNET
+                     |
+                [ pfSense ]
+          WAN ----| | |---- LAN
+                  | | 
+                  | +------ VLAN10 STAFF
+                  |
+                  +-------- VLAN20 SERVERS
+                  |
+                  +-------- DMZ
++ What I Learned
++ Problems I Faced
++ Solutions
