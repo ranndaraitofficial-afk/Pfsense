@@ -28,4 +28,5 @@
 + Problems I Faced
   - Pfsense keep crashing and error php services
 + Solutions
-  - I fixing it by Restore Backup pfsense through console interface
+  - I fixing it by Restore Backup file pfsense through console interface
+  - Also pfsense backup usually stored in /conf/backup/
