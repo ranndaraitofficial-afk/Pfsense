@@ -26,7 +26,7 @@
   - How to Set up Vlan on Pfsense
   - Firewall Rule of Pfsense
 + Problems I Faced
-  - Pfsense keep crashing and error php services
+  - Pfsense keep crashing and error php services everytime i try to new configure.
 + Solutions
   - I fixing it by Restore Backup file pfsense through console interface
   - Also pfsense backup usually stored in /conf/backup/
