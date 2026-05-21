@@ -22,15 +22,31 @@
                   +-------- DMZ
 + What I Learned
   + 20-05-2026 :
-  - How to Set up pfsense as your Firewall Router
-  - How to Set up dynamic DNS in Pfsense
-  - How to Set Auto Backup Configuration
-  - How to Set up Vlan on Pfsense
-  - Firewall Rule of Pfsense
+    - How to Set up pfsense as your Firewall Router.
+    - How to Set up dynamic DNS in Pfsense.
+    - How to Set Auto Backup Configuration.
+    - How to Set up Vlan on Pfsense.
+    - Firewall Rule of Pfsense.
+  + 21-05-2026
+    - How to Set up pfsense Captive_Portal and Voucher.
+    - kowing more about DNS resolve in pfsense.
+    - To be faire pfsense captive_portal is just like hospot in mikrotik both lead user to web interface 
+    both can customize web itnerface to promoting thier product the different is in Mikrotik it will 
+    open browser it ownself if user connect to the internet that have been configure hospot if we look at pfsense
+    user have to run browser for it to load pfsense captive_portal but im not sure about that maybe i still need to 
+    look into it more or i just dont know !!!!!!!!
 + Problems I Faced
   + 20-05-2026 :	
-  - Pfsense keep crashing and error php services everytime i try to new configure.
+    - Pfsense keep crashing and error php services everytime i try to new configure.
+  + 21-05-2026 :
+    - captive stuck not working due to wrong configure.
+    - captive client interface not output for client when they access internet due to wrong DNS.
+    - Configure wrong port. 
 + Solutions
   + 20-05-2026 :
-  - I fixing it by Restore Backup file pfsense through console interface
-  - Also pfsense backup usually stored in /conf/backup/
+    - I fixing it by Restore Backup file pfsense through console interface
+    - Also pfsense backup usually stored in /conf/backup/
+  + 21-05-2026 :
+    - Fixed wrong port configuration
+    - Fixed DNS resolve
+    - also have to  make it showing your DNS when u run this command "nslookup google.com"
