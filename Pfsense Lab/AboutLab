@@ -21,13 +21,16 @@
                   |
                   +-------- DMZ
 + What I Learned
+  + 20-05-2026 :
   - How to Set up pfsense as your Firewall Router
   - How to Set up dynamic DNS in Pfsense
   - How to Set Auto Backup Configuration
   - How to Set up Vlan on Pfsense
   - Firewall Rule of Pfsense
 + Problems I Faced
-  1 Pfsense keep crashing and error php services everytime i try to new configure.
+  + 20-05-2026 :	
+  - Pfsense keep crashing and error php services everytime i try to new configure.
 + Solutions
-  1 I fixing it by Restore Backup file pfsense through console interface
+  + 20-05-2026 :
+  - I fixing it by Restore Backup file pfsense through console interface
   - Also pfsense backup usually stored in /conf/backup/
