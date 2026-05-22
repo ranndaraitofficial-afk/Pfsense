@@ -40,6 +40,7 @@
     - Enhance network security by integrating antivirus scanning with the proxy server
     - Help ensure users can browse the internet more safely
     - Manually add proxy to client
+    - Also it would be good if use have ssl certificate cause it allowing squid to stored cache with https instead of just http.
 + Problems I Faced
   + 20-05-2026 :	
     - Pfsense keep crashing and error php services everytime i try to new configure.
