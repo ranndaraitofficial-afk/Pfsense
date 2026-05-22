@@ -27,7 +27,7 @@
     - How to Set Auto Backup Configuration.
     - How to Set up Vlan on Pfsense.
     - Firewall Rule of Pfsense.
-  + 21-05-2026
+  + 21-05-2026 :
     - How to Set up pfsense Captive_Portal and Voucher.
     - kowing more about DNS resolve in pfsense.
     - To be faire pfsense captive_portal is just like hospot in mikrotik both lead user to web interface 
@@ -35,6 +35,11 @@
     open browser it ownself if user connect to the interface that have been configure hospot if we look at pfsense
     user have to run browser for it to load pfsense captive_portal but im not sure about that maybe i still need to 
     look into it more or i just dont know !!!!!!!!
+  + 22-05-2026 :
+    - How to set up Squid Proxy / Proxy Server on pfSense
+    - Enhance network security by integrating antivirus scanning with the proxy server
+    - Help ensure users can browse the internet more safely
+    - Manually add proxy to client
 + Problems I Faced
   + 20-05-2026 :	
     - Pfsense keep crashing and error php services everytime i try to new configure.
@@ -42,6 +47,8 @@
     - captive stuck not working due to wrong configure.
     - captive client interface not output for client when they access internet due to wrong DNS.
     - Configure wrong port. 
+  + 22-05-2026
+    - So far for today none.
 + Solutions
   + 20-05-2026 :
     - I fixing it by Restore Backup file pfsense through console interface
