@@ -41,6 +41,10 @@
     - Help ensure users can browse the internet more safely
     - Manually add proxy to client
     - Also it would be good if use have ssl certificate cause it allowing squid to stored cache with https instead of just http.
+    - How to set up adsblocker on pfsense aka pfBlockNG 
+    - configure pfblock for blocking adsware on website and prevent from redirect webste when click on invisable bait on ads
+    - prevent user from enter or access to untrust website or download from untrust website
+    - remember pfblock was make to block adsware or redirect website when u click on smth it doesnt stop ads from other platform
 + Problems I Faced
   + 20-05-2026 :	
     - Pfsense keep crashing and error php services everytime i try to new configure.
