@@ -54,6 +54,12 @@
     - Configure wrong port. 
   + 22-05-2026
     - So far for today none.
+  + 23-05-2026 :
+    - New problem php keep getting crash i dont know if it becuase it on vm 
+    does it happen oftern on pyhsical machine too cause i keep getting crash even i back it up it still crash
+    like the whole system is crashing after it boot it not showing console unless i write this command /etc/rc.initial
+    ig even backup is not working the only solution is install a new pfsense well i hope on physical device it not run to this problem also 
+    imma try to copy backup so i can back it up on the new pfsense.
 + Solutions
   + 20-05-2026 :
     - I fixing it by Restore Backup file pfsense through console interface
