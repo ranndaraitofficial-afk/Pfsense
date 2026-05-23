@@ -4,10 +4,10 @@
   - Dynamic DNS
   - Auto Backup Config
   - Vlan Segmentation
-  - Captive Portal 
+  - Captive Portal (Voucher) 
   - Squid Proxy
   - Firewall Rule
-  - VPN
+  - VPN (OpenVPN, L2TP, IPsec, Wireguard)
   - Ads Blocker
 + Topology
                    INTERNET
